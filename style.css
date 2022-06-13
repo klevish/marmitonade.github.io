@@ -1,0 +1,19 @@
+body {
+    margin-left: 20px;
+    margin-right: 20px;
+}
+nav{
+    display: flex;
+    justify-content: center;
+
+    height: 150px;
+
+}
+nav ul{
+    display: inline-flex;
+    justify-content: space-evenly;
+    width: 800px;
+}
+ul {
+    list-style-type: none;
+}
