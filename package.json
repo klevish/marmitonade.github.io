@@ -6,7 +6,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "prettier": "npx prettier --write .",
-    "prepare": "husky install"
+    "prepare": "husky install",
+    "eslint": "npx eslint './*.html'"
   },
   "repository": {
     "type": "git",
